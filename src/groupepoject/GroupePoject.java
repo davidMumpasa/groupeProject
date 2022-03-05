@@ -19,6 +19,7 @@ public class GroupePoject {
         
         
         System.out.println(" the new project");
+        System.out.println("my name is elienock");
     }
     
 }
