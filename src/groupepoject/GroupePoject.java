@@ -5,6 +5,8 @@
  */
 package groupepoject;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author hp
@@ -20,6 +22,8 @@ public class GroupePoject {
         
         System.out.println(" the new project");
         System.out.println("my name is elienock");
+        JOptionPane.showMessageDialog(null, "yours ");
+        
     }
     
 }
