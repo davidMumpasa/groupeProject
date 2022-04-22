@@ -29,7 +29,8 @@ public class GroupePoject {
         sum = num1 + num2;
 
         System.out.println("The sum of"+num1+" and "+num2+" is: "+sum);
-        
+        JOptionPane.showMessageDialog(null,"the sum is "+sum,"Sum",JOptionPane.PLAIN_MESSAGE);
+
         System.out.println(" the new project");
         System.out.println("my name is elienock");
         JOptionPane.showMessageDialog(null, "yours ");
